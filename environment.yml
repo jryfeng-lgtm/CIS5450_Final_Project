@@ -1,0 +1,12 @@
+name: cis5450
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas=2.2
+  - scipy
+  - matplotlib
+  - scikit-learn=1.7
+  - xgboost>=2.1
+  - ipykernel
