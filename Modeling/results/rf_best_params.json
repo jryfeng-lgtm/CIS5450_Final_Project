@@ -1,0 +1,10 @@
+{
+  "n_estimators": 300,
+  "max_samples": 0.5,
+  "bootstrap": true,
+  "n_jobs": -1,
+  "random_state": 42,
+  "min_samples_leaf": 20,
+  "max_features": "sqrt",
+  "max_depth": null
+}
