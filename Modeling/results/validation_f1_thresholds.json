@@ -1,0 +1,6 @@
+{
+  "Constant baseline": 0.36063229391614493,
+  "Logistic regression": 0.2613660611611644,
+  "Random forest": 0.26990447000923395,
+  "XGBoost": 0.2679109573364258
+}
