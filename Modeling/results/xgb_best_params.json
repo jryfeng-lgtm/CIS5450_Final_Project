@@ -1,0 +1,12 @@
+{
+  "objective": "binary:logistic",
+  "tree_method": "hist",
+  "n_jobs": -1,
+  "random_state": 42,
+  "colsample_bytree": 0.5752867891211308,
+  "learning_rate": 0.03476649150592621,
+  "max_depth": 4,
+  "n_estimators": 500,
+  "reg_lambda": 3.4890188454913864,
+  "subsample": 0.7962072844310213
+}
